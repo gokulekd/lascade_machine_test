@@ -39,7 +39,7 @@ class _ImageCarouselState extends State<ImageCarousel> {
                 scrollIndex = index;
               });
             },
-            height: 200,
+            height: 205,
             autoPlay: false,
             aspectRatio: 16 / 9,
             viewportFraction: 0.9,
